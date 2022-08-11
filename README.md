@@ -1,0 +1,2 @@
+# SecuritySaludArgentinaQR
+ QR
